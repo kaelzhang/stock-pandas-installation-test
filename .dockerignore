@@ -1,0 +1,8 @@
+*
+!stock_pandas_installation_test
+!requirements.txt
+*.pyc
+*.log.*
+*.log
+__pycache__
+*.csv
