@@ -1,5 +1,5 @@
-import stock_pandas_installation_test
+from stock_pandas import StockDataFrame
 
 
 def test_main():
-    pass
+    StockDataFrame()
